@@ -3,8 +3,6 @@
   <img src="welcome.gif" alt="Welcome GIF" width="800"/>
 </p>
 
-<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Science-Cyber%20Security-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Entrepreneur-💸-brightgreen?style=for-the-badge" />
