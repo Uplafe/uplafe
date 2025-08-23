@@ -18,7 +18,7 @@
 🎨 On the creative side, I’m also a **Photographer**, **UI Designer**, and **Graphic Designer** (Figma + Photoshop).  
 🖥️ I enjoy coding (even though I say I “suck at it” 😅) and I’m slowly turning my dreams into reality here on GitHub.  
 
----
+<hr style="border: 0; height: 0.1px; background: #ccc; margin: 20px 0;" />
 
 ## 🚀 Skills  
 
