@@ -20,4 +20,29 @@
 
 <hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;" />
 
-## 🚀 Skills  
+## 🚀 Skills & Tools  
+
+<details>
+  <summary>💻 Programming</summary>
+  <br/>
+  <img src="https://img.shields.io/badge/HTML-ff5722?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</details>
+
+<details>
+  <summary>🎨 Design</summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photography-000000?style=for-the-badge&logo=camera&logoColor=white" />
+</details>
+
+<details>
+  <summary>⚙️ Tools</summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</details>
+
