@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Always%20Learning-🚀-orange?style=for-the-badge" />
 </p>
 
-<hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;" />
+<hr style="border: 0; height: 0.1px; background: #ccc; margin: 20px 0;" />
 
 ## 🔹 About Me  
 
