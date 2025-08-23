@@ -22,24 +22,24 @@
 <details>
   <summary>💻 Programming</summary>
   <br/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=html,python,java" />
+  </p>
 </details>
 
 <details>
   <summary>🎨 Design</summary>
   <br/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photography-000000?style=for-the-badge&logo=camera&logoColor=white" />
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=figma,ps" />
+    <img src="https://img.shields.io/badge/Photography-000000?style=for-the-badge&logo=camera&logoColor=white" />
+  </p>
 </details>
 
 <details>
   <summary>⚙️ Tools</summary>
   <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  </p>
 </details>
-
