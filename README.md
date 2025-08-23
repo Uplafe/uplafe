@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Always%20Learning-🚀-orange?style=for-the-badge" />
 </p>
 
-<hr style="border: 0; height: 0.1px; background: #ccc; margin: 20px 0;" />
+<hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;" />
 
 ## 🔹 About Me  
 
@@ -18,13 +18,6 @@
 🎨 On the creative side, I’m also a **Photographer**, **UI Designer**, and **Graphic Designer** (Figma + Photoshop).  
 🖥️ I enjoy coding (even though I say I “suck at it” 😅) and I’m slowly turning my dreams into reality here on GitHub.  
 
-<hr style="border: 0; height: 0.1px; background: #ccc; margin: 20px 0;" />
+<hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;" />
 
 ## 🚀 Skills  
-
-```text
-Frontend:   ██████████░░░░   HTML  
-Design:     ██████████████   Figma, Photoshop  
-Python:     ████████░░░░░░   Python  
-Java:       ██████░░░░░░░░   Java  
-Photography ██████████████   Photography  
