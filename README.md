@@ -42,3 +42,15 @@
     <img src="https://skillicons.dev/icons?i=git,github,arch,kali,windows,vscode" />
   </p>
 </details>
+
+<details>
+  <summary>🖥️ My Gear</summary>
+  <br/>
+  <p align="left">
+    <p>
+      Processor	AMD Ryzen 7 7735HS with Radeon Graphics, 3201 Mhz, 8 Core(s), 16 Logical Processor(s)
+      GPU: RTX 4060 8GB
+      RAM: 40.0 GB
+      Storage: 2 TB 
+  </p>
+</details>
