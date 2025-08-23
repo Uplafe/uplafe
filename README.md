@@ -22,7 +22,7 @@
 <details>
   <summary>💻 Programming</summary>
   <br/>
-  <img src="(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </details>
