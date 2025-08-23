@@ -48,14 +48,14 @@
   <br/>
   <p align="left">
     <p>
-      CPU:	AMD Ryzen 7 7735HS
-      GPU: RTX 4060 8GB
-      RAM: 40.0 GB DDR5 4800 MHz
-      Storage: Samsung  980 Pro 2 TB 
-      Monitor: AlineWare 27 inch 240hz
-      Keyboard: Ajazz ak820 pro / RK61
-      Mouse: Attack Shark X6 / Logitech G305 K/DA
-      Microphone: Fifine k688
-      Mixer: Fifine AmpliGame SC3
+      CPU:	AMD Ryzen 7 7735HS.
+      GPU: RTX 4060 8GB.
+      RAM: 40.0 GB DDR5 4800 MHz.
+      Storage: Samsung  980 Pro 2 TB.
+      Monitor: AlineWare 27 inch 240hz.
+      Keyboard: Ajazz ak820 pro / RK61.
+      Mouse: Attack Shark X6 / Logitech G305 K/DA.
+      Microphone: Fifine k688.
+      Mixer: Fifine AmpliGame SC3.
   </p>
 </details>
