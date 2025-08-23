@@ -15,7 +15,7 @@
 ✨ Hey! I'm **Uplafe**, a Computer Science undergrad diving deep into **Cyber-Security**.  
 💡 I'm an **Entrepreneur** who loves exploring ideas, building projects, and learning new skills.  
 🎨 On the creative side, I’m also a **Photographer**, **UI Designer**, and **Graphic Designer** (Figma + Photoshop).  
-🖥️ I enjoy coding (even though I say I “suck at it” 😅) and I’m slowly turning my dreams into reality here on GitHub.  
+🖥️ I suck at any form of coding.  
 
 ## 🚀 Skills & Tools  
 
