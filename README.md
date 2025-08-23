@@ -23,7 +23,7 @@
   <summary>💻 Programming</summary>
   <br/>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,python,java" />
+    <img src="https://skillicons.dev/icons?i=html,python,java,c" />
   </p>
 </details>
 
@@ -31,8 +31,7 @@
   <summary>🎨 Design</summary>
   <br/>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=figma,ps" />
-    <img src="https://img.shields.io/badge/Photography-000000?style=for-the-badge&logo=camera&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender" />
   </p>
 </details>
 
@@ -40,6 +39,6 @@
   <summary>⚙️ Tools</summary>
   <br/>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,arch,kali,windows,vscode" />
   </p>
 </details>
