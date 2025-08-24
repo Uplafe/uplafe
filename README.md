@@ -4,10 +4,19 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science-Cyber%20Security-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Entrepreneur-💸-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Always%20Learning-🚀-orange?style=for-the-badge" />
+
+  <!-- Cyber Security -->
+  <img src="https://img.shields.io/badge/Cyber%20Security-0D1117?style=for-the-badge&logo=security&logoColor=white&labelColor=0D1117&color=0D1117">
+
+  <!-- Entrepreneur -->
+  <img src="https://img.shields.io/badge/| Entrepreneur |-0D1117?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=0D1117&color=0D1117">
+  
+  <!-- Always Learning -->
+  <img src="https://img.shields.io/badge/Always%20Learning-0D1117?style=for-the-badge&logo=book&logoColor=white&labelColor=0D1117&color=0D1117">
+
 </p>
+
+
 
 
 ## 🔹 About Me  
